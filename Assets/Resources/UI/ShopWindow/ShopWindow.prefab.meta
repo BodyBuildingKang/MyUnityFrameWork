@@ -1,8 +1,7 @@
 fileFormatVersion: 2
 guid: 53588d36aaec81240945f5e88609f229
-timeCreated: 1510932831
-licenseType: Pro
-NativeFormatImporter:
+PrefabImporter:
+  externalObjects: {}
   userData: 
-  assetBundleName: 
+  assetBundleName: ui/shopwindow/shopwindow
   assetBundleVariant: 

@@ -1,8 +1,7 @@
 fileFormatVersion: 2
 guid: d5a721e3c525e6c4b8e78f38603729fb
-timeCreated: 1474352305
-licenseType: Pro
-NativeFormatImporter:
+PrefabImporter:
+  externalObjects: {}
   userData: 
-  assetBundleName: 
+  assetBundleName: ui/test01window/test01window
   assetBundleVariant: 
